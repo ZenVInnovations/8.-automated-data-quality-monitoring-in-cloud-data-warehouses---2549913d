@@ -1,4 +1,5 @@
-Automated Data Quality Monitoring in Cloud Data Warehouses
+**Automated Data Quality Monitoring in Cloud Data Warehouses**
+
 📌 Introduction
 In modern data-driven enterprises, cloud data warehouses such as Snowflake, Google BigQuery, and Amazon Redshift are essential for storing and managing vast amounts of business-critical data. However, ensuring data quality at scale is a significant challenge. This project addresses that challenge by automating data quality checks using AI-based techniques.
 
